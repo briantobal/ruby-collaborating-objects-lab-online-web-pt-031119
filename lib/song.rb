@@ -13,7 +13,6 @@ class Song
     new_song.artist = new_artist
     new_artist.add_song(new_song)
     new_song
-   # binding.pry 
   end     #def 
 
 end
